@@ -1,0 +1,10 @@
+.env
+accounts.json
+accounts.private*.json
+state/
+.chrome-profile/
+.chrome-profile-fresh-*/
+__pycache__/
+after-login.png
+login.html
+cookies.txt

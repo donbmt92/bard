@@ -1,0 +1,12 @@
+[
+  {
+    "email": "account1@gmail.com",
+    "password": "password-for-account-1",
+    "totp_secret": "TOTP-SECRET-FOR-ACCOUNT-1"
+  },
+  {
+    "email": "account2@gmail.com",
+    "password": "password-for-account-2",
+    "totp_secret": "TOTP-SECRET-FOR-ACCOUNT-2"
+  }
+]
